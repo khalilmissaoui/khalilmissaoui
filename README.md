@@ -2,7 +2,7 @@
 
 
 ## I'm a human, Friend, Developer and a futur pianist haha!!
-
+- 🧑🏻‍💻 I m a student at web speciality field at ESPRIT . 
 - 🔭 I just started my intership at : Next Consulting !!
 - 🌱 I’m currently learning Jenkins , pipes and anything i can touch about devOps 🤣
 - 👯 I’m looking to integrate what i ve learnt in some professional projects
@@ -30,6 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <br />
 <br />
 
