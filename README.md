@@ -1,12 +1,12 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm khalil and weclcome to my github  👋
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a human, Friend, Developer and a futur pianist haha!!
 
 - 🔭 I just started my intership at : [Next Consulting !][course]!
 - 🌱 I’m currently learning Jenkins , pipes and anything i can touch about devOps 🤣
 - 👯 I’m looking to integrate what i ve learnt in some professional projects
-- 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version of me by the end of the year ! 
+- 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me by the end of the year ! 
 - ⚡ Fun fact: I looove piano but i ve never touch one 🤣
 
 
@@ -38,3 +38,4 @@
 [linkedin]: https://www.linkedin.com/in/khalil-missaoui/
 [Gmail]: khalil.missaoui1@esprit.tn
 
+### find my projects below , thanks for any feedback ! 
