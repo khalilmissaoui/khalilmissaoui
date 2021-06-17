@@ -2,7 +2,7 @@
 
 
 ## I'm a Human, Friend, Developer and a futur pianist haha!!
-- 🧑🏻‍💻 I m a student at web speciality field at ESPRIT . 
+- 🧑🏻‍💻 I m a web specialitist student at ESPRIT . 
 - 🔭 I just started my intership at : Next Consulting !!
 - 🌱 I’m currently learning Jenkins , pipes and anything i can touch about devOps 🤣
 - 👯 I’m looking to integrate what i ve learnt in some professional projects
