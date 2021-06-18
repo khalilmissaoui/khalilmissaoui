@@ -1,4 +1,4 @@
-### Hi there, I'm khalil and weclcome to my github  👋
+### Hi there, I'm khalil and welcome to my github  👋
 
 
 ## I'm a Human, Friend, Developer and a futur pianist haha!!
