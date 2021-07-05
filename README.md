@@ -3,7 +3,7 @@
 
 ## I'm a Human, Friend, Developer and a futur pianist haha!!
 - 🧑🏻‍💻 I m a web specialitist student at ESPRIT . 
-- 🔭 I just started my intership at : Next Consulting !!
+- 🔭 I just started my intership at : ZentIT !!
 - 🌱 I’m currently learning Jenkins , pipes and anything i can touch about devOps 🤣
 - 👯 I’m looking to integrate what i ve learnt in some professional projects
 - 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me by the end of the year ! 
