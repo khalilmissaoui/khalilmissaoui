@@ -6,7 +6,7 @@
 - 🔭 I just started my intership at : ZnetIT !!
 - 🌱 I’m currently learning Jenkins , pipes and anything i can touch about devOps 🤣
 - 👯 I’m looking to integrate what i ve learnt in some professional projects
-- 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me by the end of the year ! 
+- 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 - ⚡ Fun fact: I looove piano but i ve never touch one 🤣
 
 
