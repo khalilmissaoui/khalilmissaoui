@@ -2,9 +2,9 @@
 
 
 ## I'm a Human, Friend, Developer and a futur pianist haha!!
-- 🧑🏻‍💻 I m a web specialitist student at ESPRIT . 
+- 🧑🏻‍💻 I m a web dev student at ESPRIT , currently searching for 6 months graduation intership . 
 - 🔭 I just started my intership at : ZnetIT !!
-- 🌱 I’m currently learning Jenkins , pipes and anything i can touch about devOps 🤣
+- 🌱 I’m currently learning advanced JS , CI/CD  and some cloud concepts 🤣
 - 👯 I’m looking to integrate what i ve learnt in some professional projects
 - 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 - ⚡ Fun fact: I looove piano but i ve never touch one 🤣
