@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I looove piano but i ve never touch one 🤣
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
 ### Connect with me:
 
 [<img align="left" alt="khalilmissaoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
