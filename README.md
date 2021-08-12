@@ -1,4 +1,4 @@
-### Hi there, I'm khalil and welcome to my github  👋
+### Hi there, I'm khalil and welcome to my github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 ## I'm a Human, Friend, Developer and a futur pianist haha!!
