@@ -9,6 +9,7 @@
 - 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 - ⚡ Fun fact: I looove piano but i ve never touch one 🤣
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### Connect with me:
 
