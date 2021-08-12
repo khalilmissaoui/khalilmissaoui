@@ -13,8 +13,13 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="khalilmissaoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://twitter.com/khalilmissaoui3">
+  <img align="left" alt="Khalil Missaoui | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/khalil-missaoui/">
+  <img align="left" alt="Khalil Missaoui's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<!-- [<img align="left" alt="khalilmissaoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="khalilmissaoui | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 <br />
