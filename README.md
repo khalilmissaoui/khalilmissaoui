@@ -9,8 +9,7 @@
 - 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 - ⚡ Fun fact: I looove piano but i ve never touch one 🤣
 
-<img align='right' src="<iframe src="https://giphy.com/embed/102h4wsmCG2s12" width="480" height="313" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/charlie-hunnam-gif-hunt-102h4wsmCG2s12">via GIPHY</a></p>" width="230">
-<iframe src="https://giphy.com/embed/102h4wsmCG2s12" width="480" height="313" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/charlie-hunnam-gif-hunt-102h4wsmCG2s12">via GIPHY</a></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ### Connect with me:
 
 [<img align="left" alt="khalilmissaoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
