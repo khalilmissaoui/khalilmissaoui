@@ -1,4 +1,4 @@
-### Hi there, I'm Khalil  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+### Hi there, I'm Khalil   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 
 ## I'm a Human, Friend, Developer and a futur pianist haha!!
