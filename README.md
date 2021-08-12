@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 - ⚡ Fun fact: I looove piano but i ve never touch one 🤣
 
-<img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">
+<img align='right' src="<iframe src="https://giphy.com/embed/102h4wsmCG2s12" width="480" height="313" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/charlie-hunnam-gif-hunt-102h4wsmCG2s12">via GIPHY</a></p>" width="230">
 
 ### Connect with me:
 
@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px">:
+### Languages and Tools :
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
