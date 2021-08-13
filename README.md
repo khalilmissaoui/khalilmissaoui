@@ -14,9 +14,9 @@
 
 ### Connect with me:
 <a href="https://twitter.com/khalilmissaoui3">
-  <img align="left" alt="Khalil Missaoui | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Khalil Missaoui | Twitter" width="22px" target='_blank' src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/khalil-missaoui/">
+<a href="https://www.linkedin.com/in/khalil-missaoui/" target='_blank'>
   <img align="left" alt="Khalil Missaoui's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
