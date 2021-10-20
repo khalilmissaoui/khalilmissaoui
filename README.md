@@ -8,7 +8,7 @@
 🌱 For learning puposes : Applying the CI/CD pipeline on a SpringBoot project using tools like : SonarQube  , Nexus aaand  Jenkins  💯 .<br />
 🌱 Understanding the UX/UI concepts : hearing clients , understanding the needs , low fidelity framing & designing an interface .<br />
 🌱 Semantic Web .<br />
-- 🪙 side intrests in smart contracts , blockchain and decentrelized data in general . 
+- 🕸️ side intrests in smart contracts , blockchain and decentrelized data in general . 
 - 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 - ⚡ Fun fact: I looove piano but i ve never touch one 🤣
 
