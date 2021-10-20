@@ -3,9 +3,12 @@
 
 ## I'm a Human, Friend, Developer and a futur pianist haha!!
 - 🧑🏻‍💻 I m a web dev student at ESPRIT , currently searching for 6 months graduation intership . 
-- 🔭 I just started my intership at : ZnetIT !! 
-- 🌱 I’m currently learning advanced JS  , Scrum aaand  CI/CD  plus some cloud concepts 💯
-- 👯 I’m looking to integrate what i ve learnt in some professional projects 💪🏽
+- 🔭 Current projects that I'm working on : 
+🌱 Online Shop : using mircoservices architecture (Eureka , Zuul) with SpringBoot for backend and angular for frontend , probably gonna try the Micro-frontend .
+🌱 For learning puposes : Applying the CI/CD pipeline on a SpringBoot project using tools like : SonarQube  , Nexus aaand  Jenkins  💯 .
+🌱 Understanding the UX/UI concepts : hearing clients , understanding the needs , low fidelity framing & designing an interface .
+🌱 Semantic Web .
+- 🪙 side intrests in smart contracts , blockchain and decentrelized data in general . 
 - 🥅 2021 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 - ⚡ Fun fact: I looove piano but i ve never touch one 🤣
 
