@@ -5,7 +5,7 @@
 - 🧑🏻‍💻 I m a web dev student at ESPRIT , currently searching for 6 months graduation intership . 
 - 🔭 Current projects that I'm working on : <br />
 🌱 Online Shop : using mircoservices architecture (Eureka , Zuul , Docker) with SpringBoot for backend and angular for frontend , probably gonna try the Micro-frontend .<br />
-🌱 For learning puposes : Applying the CI/CD pipeline on a SpringBoot project using tools like : SonarQube  , Nexus aaand  Jenkins  💯 .<br />
+🌱 For learning puposes : Applying the CI/CD pipeline on a SpringBoot project using tools like : SonarQube  , Nexus aaand  Jenkins  💯<br />
 🌱 Understanding the UX/UI concepts : hearing clients , understanding the needs , low fidelity framing & designing an interface .<br />
 🌱 Semantic Web .<br />
 - 🕸️ side intrests in smart contracts , blockchain and decentrelized data in general . 
