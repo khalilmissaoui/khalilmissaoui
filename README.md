@@ -1,7 +1,7 @@
 ### Hi there, I'm Khalil   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 
-## I'm a Human, Friend, Developer and a futur pianist haha!!
+## I'm a Human, Friend, Developer and a futur pianist !!
 - 🧑🏻‍💻 I m a fresh graduated software engineer . 
 - 🔭 Current projects that I'm working on : <br />
 🌱 Online Shop : using mircoservices architecture (Eureka , Zuul , Docker) with SpringBoot for backend and angular for frontend , probably gonna try the Micro-frontend <br />
@@ -10,7 +10,7 @@
 🌱 Semantic Web <br />
 - 🕸️ side intrests in smart contracts , blockchain and decentrelized data in general . 
 - 🥅 2022 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
-- ⚡ Fun fact: I looove piano but i ve never touch one 🤣
+
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
