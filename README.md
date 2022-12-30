@@ -4,12 +4,11 @@
 ## I'm a Human, Friend, Developer and a futur pianist !!
 - 🧑🏻‍💻 I m a fresh graduated software engineer . 
 - 🔭 Current projects that I'm working on : <br />
-🌱 Online Shop : using mircoservices architecture (Eureka , Zuul , Docker) with SpringBoot for backend and angular for frontend , probably gonna try the Micro-frontend <br />
-🌱 For learning puposes : learning DevOps path since I ve allways had a side intrest to it  💯<br />
-🌱 Understanding the UX/UI concepts : hearing clients , understanding the needs , low fidelity framing & designing an interface <br />
-🌱 Semantic Web <br />
-- 🕸️ side intrests in smart contracts , blockchain and decentrelized data in general . 
-- 🥅 2022 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
+🌱 Using mircoservices architecture (Eureka , Zuul , Docker) with SpringBoot for backend and angular for frontend , Async communication using kafka <br />
+🌱 For learning puposes : learning DevOps roadmap path since I ve allways had a side intrest to it  💯<br />
+🌱 Uploading and updating my old work to Github repository <br />
+- 🕸️ side intrests in decentrelized data in general . 
+- 🥅 2023 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
