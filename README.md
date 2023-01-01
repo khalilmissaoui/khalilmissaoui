@@ -1,7 +1,7 @@
 ### Hi there, I'm Khalil   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 
-## I'm a Human, Friend, Developer and a futur pianist !!
+## I'm a Human, Friend, Developer and an ambitious person  !!
 - 🧑🏻‍💻 I m a fresh graduated software engineer . 
 - 🔭 Current projects that I'm working on : <br />
 🌱 Using mircoservices architecture (Eureka , Zuul , Docker) with SpringBoot for backend and angular for frontend , Async communication using kafka <br />
