@@ -5,7 +5,7 @@
 - 🧑🏻‍💻 I m a fresh graduated software engineer . 
 - 🔭 Current projects that I'm working on : <br />
 🌱 Using mircoservices architecture (Eureka , Zuul , Docker) with SpringBoot for backend and angular for frontend , Async communication using kafka <br />
-🌱 For learning puposes : learning DevOps roadmap path since I ve allways had a side intrest to it  💯<br />
+🌱 For learning puposes : learning more of K8S and docker and aim to get some certifications to prove my skills 💯<br />
 🌱 Uploading and updating my old work to Github repository <br />
 - 🕸️ side intrests in decentrelized data in general . 
 - 🥅 2023 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
