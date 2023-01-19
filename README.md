@@ -2,12 +2,11 @@
 
 
 ## I'm a Human, Friend, Developer and an ambitious person  !!
-- 🧑🏻‍💻 I m a fresh graduated software engineer . 
+- 🧑🏻‍💻 I m a software engineer . 
 - 🔭 Current projects that I'm working on : <br />
-🌱 Using mircoservices architecture (Eureka , Zuul , Docker) with SpringBoot for backend and angular for frontend , Async communication using kafka <br />
+🌱 Using mircoservices architecture with Spring Boot for backend , Async communication using KAFKA <br />
 🌱 For learning puposes : learning more of K8S and docker and aim to get some certifications to prove my skills 💯<br />
-🌱 Uploading and updating my old work to Github repository <br />
-- 🕸️ side intrests in decentrelized data in general . 
+- 🕸️ Currently reading : Think and grow rich . 
 - 🥅 2023 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 
 
