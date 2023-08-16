@@ -14,11 +14,9 @@
 
 
 ### Connect with me:
-[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/khalil-missaoui/)
-
-
-[<img align="left" alt="khalilmissaoui | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
-
+- 🔗 [Linkedin](https://www.linkedin.com/in/khalil-missaoui/)
+- 📫 [E-mail](mailto:khalilmissaoui159@gmail.com)
+  
 <br />
 
 ### 🛠 &nbsp;Tech Stack (mostly)
