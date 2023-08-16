@@ -5,7 +5,6 @@
 - 🧑🏻‍💻 I m a software engineer . 
 - 🔭 Current projects that I'm working on : <br />
 🌱 Using mircoservices architecture with Spring Boot for backend , Async communication using KAFKA <br />
-🌱 For learning puposes : learning more of K8S and docker and aim to get some certifications to prove my skills 💯<br />
 - 🕸️ Currently reading : Think and grow rich . 
 - 🥅 2023 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 
