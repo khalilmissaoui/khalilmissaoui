@@ -3,9 +3,11 @@
 
 ## I'm a Human, Friend, Developer and an ambitious person  !!
 - 🧑🏻‍💻 I m a software engineer . 
-- 🔭 Current projects that I'm working on : <br />
+- 🔭 Currently I'm working on : <br />
 🌱 Using mircoservices architecture with Spring Boot for backend , Async communication using KAFKA <br />
-- 🕸️ Currently reading : Think and grow rich . 
+🌱 getting some heavy certs so stay tuned ;) <br /
+
+- 🕸️ Currently reading : Limitless . 
 - 🥅 2023 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 
 
