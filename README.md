@@ -14,12 +14,8 @@
 
 
 ### Connect with me:
-<a href="https://twitter.com/khalilmissaoui3">
-  <img align="left" alt="Khalil Missaoui | Twitter" width="22px" target='_blank' src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/khalil-missaoui/" target='_blank'>
-  <img align="left" alt="Khalil Missaoui's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/khalil-missaoui/)
+
 
 [<img align="left" alt="khalilmissaoui | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
