@@ -41,4 +41,3 @@
 [linkedin]: https://www.linkedin.com/in/khalil-missaoui/
 [Gmail]: khalil.missaoui1@esprit.tn
 
-### find my projects below , thanks for any feedback ! 
