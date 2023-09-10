@@ -2,14 +2,15 @@
 
 
 ## I'm a Human, Friend, Developer and an ambitious person  !!
-- 🧑🏻‍💻 I m a software engineer . 
-- 🔭 Currently I'm working on : <br />
-🌱 Using mircoservices architecture with Spring Boot for backend , Async communication using KAFKA <br />
-🌱 Getting some heavy certs so stay tuned ;) <br />
+- 🧑🏻‍💻 I m a software engineer who like working with edge technologies. 
+- 🔭 I like microservices and everything around <br />
+🌱 Certified Kubernetes Application Developer - CKAD <br />
+🌱 AWS Solutions Architect Associate - SAA-C03 <br />
 
-- 🕸️ Currently reading : Limitless . 
+- 🕸️ Currently reading about happiness . 
 - 🥅 2023 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
 
+please check my website , I do update it often for fun : https://khalil-missaoui.netlify.app/
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
