@@ -8,7 +8,7 @@
 🌱 AWS Solutions Architect Associate - SAA-C03 <br />
 
 - 🕸️ Currently reading about happiness . 
-- 🥅 2023 Goals: Learn , learn and learn ! all i want is to get the best version out of me to take off the L lateer ! 
+- 🥅 becoming the best version of me , wisely ! 
 
 please check my website , I do update it often for fun : https://khalil-missaoui.netlify.app/
 
