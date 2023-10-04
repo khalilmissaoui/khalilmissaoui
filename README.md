@@ -8,7 +8,7 @@
 🌱 AWS Solutions Architect Associate - SAA-C03 <br />
 
 - 🕸️ Currently reading about happiness . 
-- 🥅 becoming the best version of me , wisely ! 
+- 🥅 becoming the best version of me , wisely :)
 
 please check my website , I do update it often for fun : https://khalil-missaoui.netlify.app/
 
