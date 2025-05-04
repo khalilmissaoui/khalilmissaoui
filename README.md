@@ -7,7 +7,7 @@
 🌱 Certified Kubernetes Application Developer - CKAD <br />
 🌱 AWS Solutions Architect Associate - SAA-C03 <br />
 
-- 🕸️ Currently reading about my hidden potential , special thanks to whoever woke me up about it , forever greatful . 
+- 🕸️ Currently reading about the power of living the NOW , special thanks to whoever woke me up about it , forever greatful . 
 - 🥅 becoming the best version of me , wisely :)
 
 please check my website , I do update it often for fun : https://khalil-missaoui.netlify.app/
